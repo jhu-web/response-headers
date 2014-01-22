@@ -1,0 +1,1 @@
+This sample app shows how to generate response headers.
