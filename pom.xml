@@ -9,7 +9,7 @@
 
 	<name>Response Headers</name>
 	<description>This sample app shows how to generate response headers.</description>
-	
+
 	<dependencies>
 		<dependency>
 			<groupId>javax.servlet</groupId>
@@ -20,6 +20,7 @@
 	</dependencies>
 
 	<build>
+		<finalName>response-headers</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
